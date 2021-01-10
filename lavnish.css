@@ -1,6 +1,6 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-image: url("img/bg.jpg");
+    background-image: url("./img/bg.jpg");
     color: white;
 }
 h1{
